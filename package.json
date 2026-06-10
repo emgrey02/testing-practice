@@ -1,0 +1,16 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "testing practice using jest, from the odin project",
+  "repository": {
+    "type": "git",
+    "url": "testing-practice"
+  },
+  "license": "ISC",
+  "author": "emma grey",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  }
+}
